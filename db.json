@@ -1,0 +1,111 @@
+{
+    "categories": [
+        {
+           "id": 1,
+           "title":"Все"
+        },
+        {
+            "id": 2,
+            "title":"Мясные"
+         },
+         {
+            "id": 3,
+            "title":"Вегетарианская"
+         },
+         {
+            "id": 4,
+            "title":"Гриль"
+         },
+         {
+            "id": 5,
+            "title":"Острые"
+         },
+         {
+            "id": 6,
+            "title":"Закрытые"
+         }
+    ],
+         "products": [
+            {
+               "id": 1,
+               "categoryId": "2",
+               "imgURL":"https://menu2go.ru/images/food/664/664_888_20231103155915_7564.jpg",
+               "name":"Пепперони",
+               "types":["тонкое","традиционное"],
+               "size":["26 cm","30 cm","40 cm"],
+               "price":395,
+               "orderCount":0
+            },
+            {
+               "id": 2,
+               "categoryId": "3",
+               "imgURL":"https://static.pizzasushiwok.ru/images/menu_new/698-1300.jpg",
+               "name":"Чизбургер-пицца",
+               "types":["тонкое","традиционное"],
+               "size":["26 cm"],
+               "price":450,
+               "orderCount":0
+            },
+            {
+               "id": 3,
+               "categoryId": "4",
+               "imgURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5h96Qxb7027DVCM9dxlItr35EEzpM4Gd3Uw&s",
+               "name":"Креветки по-азиатски",
+               "types":["тонкое","традиционное"],
+               "size":["30 cm"],
+               "price":290,
+               "orderCount":0
+            },
+            {
+               "id": 4,
+               "categoryId": "5",
+               "imgURL":"https://irecommend.ru/sites/default/files/product-images/2243222/xHtuGOzGM7Csh0wdSttrPw.jpg",
+               "name":"Сырный цыпленок",
+               "types":["тонкое","традиционное"],
+               "size":["26 cm"],
+               "price":385,
+               "orderCount":0
+            },
+            {
+               "id": 5,
+               "categoryId": "6",
+               "imgURL":"https://menu2go.ru/images/food/664/664_888_20231103155915_7564.jpg",
+               "name":"Пепперони",
+               "types":["тонкое","традиционное"],
+               "size":["26 cm","30 cm","40 cm"],
+               "price":395,
+               "orderCount":0
+            },
+            {
+               "id": 6,
+               "categoryId": "7",
+               "imgURL":"https://static.pizzasushiwok.ru/images/menu_new/698-1300.jpg",
+               "name":"Чизбургер-пицца",
+               "types":["тонкое","традиционное"],
+               "size":["26 cm"],
+               "price":450,
+               "orderCount":0
+            },
+            {
+               "id": 7,
+               "categoryId": "7",
+               "imgURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5h96Qxb7027DVCM9dxlItr35EEzpM4Gd3Uw&s",
+               "name":"Креветки по-азиатски",
+               "types":["тонкое","традиционное"],
+               "size":["30 cm"],
+               "price":290,
+               "orderCount":0
+            },
+            {
+               "id": 8,
+               "categoryId": "8",
+               "imgURL":"https://irecommend.ru/sites/default/files/product-images/2243222/xHtuGOzGM7Csh0wdSttrPw.jpg",
+               "name":"Сырный цыпленок",
+               "types":["тонкое","традиционное"],
+               "size":["26 cm"],
+               "price":385,
+               "orderCount":0
+            }
+           
+         ]
+}
