@@ -6,7 +6,10 @@ body{
     background-color: #ffdf8c;
     padding: 50px;
 }
-
-.ant-segmented-group{
+.ant-segmented, .ant-segmented-group{
     width: 100% !important;
+}
+
+.ant-segmented-item{
+    width: 50% !important;
 }
